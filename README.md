@@ -55,7 +55,7 @@ This project implements a machine learning-based **SMS Spam Classifier** using P
 
 ![NotSpam](images/not_spam.png)
 
-- Spam\
+- Spam
 
 ![Spam](images/spam.png)
 
