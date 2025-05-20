@@ -66,4 +66,3 @@ This project implements a machine learning-based **SMS Spam Classifier** using P
 1. Clone the repository:
    ```bash
    git clone https://github.com/Kanishkjain0510/Spam_Classifier.git
-   cd Huffman-Encoding
