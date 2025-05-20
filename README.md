@@ -52,10 +52,10 @@ This project implements a machine learning-based **SMS Spam Classifier** using P
 
 ## Examples / Snapshots
 - Not Spam
-![NotSpam](/home/kanishk-jain/Desktop/Github uploads/Spam Classifier/SpamClassifier_github/Screenshot From 2025-05-20 19-14-49.png)
+![NotSpam](images/not_spam.png)
 
 - Spam
-![Spam](/home/kanishk-jain/Desktop/Github uploads/Spam Classifier/SpamClassifier_github/Screenshot From 2025-05-20 19-15-19.png)
+![Spam](images/spam.png)
 
 ---
 
